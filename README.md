@@ -1,2 +1,2 @@
-# linked-profes
+# linkedprofes
 CV de profes
